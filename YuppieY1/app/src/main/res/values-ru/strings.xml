@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Русские Шашки</string>
+    <string name="current_turn">Текущий ход:</string>
+    <string name="game_ready">Игра не начата!</string>
+    <string name="new_game">Новая игра</string>
+    <string name="quit">Выход</string>
+    <string name="player_white">Белые</string>
+    <string name="player_black">Черные</string>
+    <string name="score_black">Черные:</string>
+    <string name="score_white">Белые:</string>
+    <string name="dialog1_title">Начало новой игры</string>
+    <string name="play_white">Белый</string>
+    <string name="play_black">Черный</string>
+    <string name="ai_vs_player">ИИ vs Игрок</string>
+    <string name="player_vs_player">Игрок vs Игрок</string>
+    <string name="dialog1_message">Выбор цвета</string>
+    <string name="dialog2_title">Игра завершена!</string>
+    <string name="dialog2_message">Победитель:</string>
+    <string name="pass_move">Пропустить ход</string>
+    <string name="draft">Ничья!</string>
+    <string name="final_game_state">Окончание:</string>
+    <string name="ai_vs_player_alphaBeta">ИИ vs Игрок ЛЕГКО</string>
+</resources>

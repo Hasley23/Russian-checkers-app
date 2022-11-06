@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Russian Checkers</string>
+    <string name="quit">Quit</string>
+    <string name="game_ready">Game isn\'t running!</string>
+    <string name="current_turn">Current turn:</string>
+    <string name="cell_description" translatable="false">board_cell</string>
+    <string name="new_game">New game</string>
+    <string name="player_white">White</string>
+    <string name="player_black">Black</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="score_black">Black:</string>
+    <string name="score_white">White:</string>
+    <string name="dialog1_title">Start a new game</string>
+    <string name="play_white">White</string>
+    <string name="play_black">Black</string>
+    <string name="ai_vs_player">AI vs Player</string>
+    <string name="player_vs_player">Player vs Player</string>
+    <string name="dialog1_message">Сolor selection</string>
+    <string name="dialog2_message">Сonqueror:</string>
+    <string name="dialog2_title">Game over!</string>
+    <string name="pass_move">Pass move</string>
+    <string name="draft">Draft!</string>
+    <string name="final_game_state">Ending:</string>
+    <string name="ai_vs_player_alphaBeta">AI vs Player EASY</string>
+
+</resources>

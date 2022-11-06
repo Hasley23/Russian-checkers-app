@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Animation frames are wheel0.png through wheel5.png
+     <transition xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/gradient_start" />
+
+    <item
+        android:drawable="@drawable/gradient_center"/>
+
+    <item
+        android:drawable="@drawable/gradient_end"/>
+
+</transition>
+     files inside the res/drawable/ folder -->
+
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+<item android:drawable="@drawable/gradient_start" android:duration="7000" />
+<item android:drawable="@drawable/gradient_center" android:duration="7000" />
+<item android:drawable="@drawable/gradient_end" android:duration="7000" />
+</animation-list>

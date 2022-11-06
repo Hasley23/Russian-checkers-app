@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/transparent_white_area">
+    <padding android:left="12dp"
+        android:top="12dp"
+        android:right="12dp"
+        android:bottom="12dp" />
+    <corners android:radius="12dp" />
+    <solid android:color="@color/colorTransparentWhite" />
+</shape>
